@@ -22,8 +22,13 @@ namespace PortfolioWebsite.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Please contact me";
 
+            return View();
+        }
+
+        public ActionResult Resume()
+        {
             return View();
         }
     }

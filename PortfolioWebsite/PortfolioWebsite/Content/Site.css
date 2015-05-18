@@ -1,6 +1,10 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color: #FBFFB9;
+    background-image: url(Photos/Detroit.jpg);
+    background-size:contain;
+    background-attachment:fixed;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -21,4 +25,104 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+h1{
+    color: gold;
+    text-align:center;
+    font-family:'AR DESTINE';
+    font-size: 90px;
+
+}
+h2{
+    color: gold;
+    text-align:center;
+    font-size: 60px;
+    font-family:'AR DESTINE';
+}
+
+h3{
+    color: gold;
+    font-size: 30px;
+    font-family:'AR DESTINE';
+}
+
+h4{
+    color: #ff0000;
+    font-family: 'AR DESTINE';
+    font-size: 30px;
+}
+
+p{
+    color: antiquewhite;
+    font-family:'AR ESSENCE';
+    font-size: 23px;
+    text-align:center;
+}
+
+.picCap{
+    color: gold;
+    font-family:'AR ESSENCE';
+    font-size: 20px;
+
+}
+.Jordan{
+    color: gold;
+    font-size: 20px;
+    font-family:'AR ESSENCE';
+}
+
+.Detroit{
+    padding-right: 100px;
+}
+
+.lead{
+    font-family: 'AR ESSENCE';
+    font-size:xx-large;
+    color: gold;
+    text-align:center;
+}
+
+.footer{
+    color:gold;
+    font-family:'AR DESTINE';
+}
+
+.navbar-header{
+    color: #006699;
+}
+
+.form-group{
+    color: gold;
+    font-family:'AR ESSENCE';
+    font-size: 23px;
+}
+
+address{
+    color:antiquewhite;
+    text-align:center;
+    font-family:'AR ESSENCE';
+    font-size: 22px;
+}
+
+.quote{
+    font-size:20px;
+}
+
+.resume{
+    font-size: 27px;
+    font-family: 'AR DESTINE';
+}
+
+ul{
+    color: antiquewhite;
+    font-family:'AR ESSENCE';
+    font-size: 23px;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+.navbar-header{
+    font-family: 'AR ESSENCE';
+    font-size: 30px;
 }
