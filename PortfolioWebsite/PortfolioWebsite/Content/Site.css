@@ -51,6 +51,7 @@ h4{
     color: #ff0000;
     font-family: 'AR DESTINE';
     font-size: 30px;
+    text-align:center;
 }
 
 p{
@@ -58,6 +59,7 @@ p{
     font-family:'AR ESSENCE';
     font-size: 23px;
     text-align:center;
+    background-color: #ff0000;
 }
 
 .picCap{
@@ -70,6 +72,7 @@ p{
     color: gold;
     font-size: 20px;
     font-family:'AR ESSENCE';
+    background-color: inherit;
 }
 
 .Detroit{
@@ -81,11 +84,13 @@ p{
     font-size:xx-large;
     color: gold;
     text-align:center;
+    background-color: inherit;
 }
 
 .footer{
     color:gold;
     font-family:'AR DESTINE';
+    background-color:inherit;
 }
 
 .navbar-header{
@@ -115,7 +120,7 @@ address{
 }
 
 ul{
-    color: antiquewhite;
+    color: gold;
     font-family:'AR ESSENCE';
     font-size: 23px;
     columns: 2;
